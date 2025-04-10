@@ -1,7 +1,7 @@
 👋 Hi there, I’m Sylvain Kamdem! I’m an Infrastructure Engineer with a passion for building secure, scalable, and efficient IT environments. With over 5 years of experience in systems administration, network engineering, and cloud technologies, I thrive on turning complex challenges into reliable solutions that drive business success.
 
 ## About Me
-Hi there, I’m Sylvain Skamdem! I hold a U.S.-equivalent Master’s degree in Computer Science (GPA: 3.69) from the University of Douala, Cameroon, with a solid foundation in systems administration, cloud computing, and data analysis. With over 5 years of experience in IT infrastructure, I specialize in leveraging data-driven strategies to optimize performance, enhance security, and support large-scale technology initiatives. My expertise spans cloud platforms like AWS and Azure, networking, Linux/Windows systems, and automation tools—driving innovation and impactful results for forward-thinking organizations.
+I hold a U.S.-equivalent Master’s degree in Computer Science (GPA: 3.69) from the University of Douala, Cameroon, with a solid foundation in systems administration, cloud computing, and data analysis. With over 5 years of experience in IT infrastructure, I specialize in leveraging data-driven strategies to optimize performance, enhance security, and support large-scale technology initiatives. My expertise spans cloud platforms like AWS and Azure, networking, Linux/Windows systems, and automation tools—driving innovation and impactful results for forward-thinking organizations.
 
 ## Skills :hammer_and_wrench:
 * **Technical Skills**: 
