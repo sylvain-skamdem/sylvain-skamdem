@@ -14,7 +14,7 @@ DevOps & Tools (Git/GitHub, Docker, CI/CD (Jenkins), Terraform)
 Monitoring & Troubleshooting Tools (Wireshark, Nagios, System logs & performance monitoring tools)
 Help Desk & IT Support Tools (Active Directory & Group Policy, Remote Desktop Services, ServiceNow / Jira)
 Imaging tools (WDS, MDT)
-Certifications (AWS Certified Cloud Practitioner, CompTIA Network+)
+Certifications (AWS Solutions Architect Associate SAA-C03, AWS Certified Cloud Practitioner, CompTIA Network+)
 Research & Development
 Project Management
 
